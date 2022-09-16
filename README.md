@@ -1,8 +1,8 @@
 ---
 title: FloodDetector
-emoji: 👀
-colorFrom: gray
-colorTo: purple
+emoji: 🌊
+colorFrom: blue
+colorTo: gray
 sdk: gradio
 sdk_version: 3.3.1
 app_file: app.py
