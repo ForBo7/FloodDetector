@@ -28,9 +28,9 @@ title = 'Flood Classifier'
 description = "An image classifier that can tell whether an image is flooded " \
               "or not. Works well with images that have a top-down/aeiral " \
               "view of the land below." \
-              "This model was trained on the ResNet18 architecture and the " \
+              " This model was trained on the ResNet18 architecture and the " \
               "fastai library." \
-              "Check out the associated blog post with the link below!"
+              " Check out the associated blog post with the link below!"
 article = "<p style='text-align: center; font-size: 36px'><a " \
           "href='https://forbo7.github" \
           ".io/ForBlog/fastai/image%20classification/2022/09/12/Detecting" \
