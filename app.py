@@ -31,10 +31,8 @@ description = "An image classifier that can tell whether an image is flooded " \
               " This model was trained on the ResNet18 architecture and the " \
               "fastai library." \
               " Check out the associated blog post with the link below!"
-article = "<p style='text-align: center; font-size: 36px'><a " \
-          "href='https://forbo7.github" \
-          ".io/ForBlog/fastai/image%20classification/2022/09/12/Detecting" \
-          "-Floods-for-Disaster-Relief.html' targets='_blank'>Blog Post</a></p>'"
+article = "<p style='text-align: center; font-size: 36px'><a href='https://forbo7.github.io/forblog/posts/2_bear_classifier_model.html' " \
+          "targets='_blank'><Blog Post</a></p>"
 
 # %% app.ipynb 14
 # Perhaps I can make the interface below with **kwargs?
